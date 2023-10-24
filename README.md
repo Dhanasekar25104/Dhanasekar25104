@@ -1,4 +1,3 @@
-![Uploading rear-view-programmer-working-all-night-long.jpg…]()
 
 ### Hi there 👋
 
