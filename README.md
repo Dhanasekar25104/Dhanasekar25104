@@ -1,8 +1,11 @@
+![1700803218599](https://github.com/Dhanasekar25104/tailor-shop/assets/123866366/c0d60785-4197-4282-ab07-27d76560e143)
 
 
-# 👋 Hello, I'm Dhanasekar!
+<h1 align="center">👋 Hello, I'm Dhanasekar!</h1>
+
 
   As a passionate college student with a focus on web development, I specialize in HTML, CSS, and React.js for front-end  development.Additionally, I possess intermediate-level proficiency in MySQL and basic-level proficiency in Express.js for backend development.My journey in the digital world has equipped me with the skills to design and build responsive, user-friendly web applications.
+
 
 ## 🔧 Technologies & Tools
 - <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  Html
